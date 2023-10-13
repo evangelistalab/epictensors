@@ -1,2 +1,2 @@
-# spycitensors
-Seamless Python-C++ Interface for Tensors
+# epictensors
+An Effortless Python Interface to C++ Tensors
