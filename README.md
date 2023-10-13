@@ -1,2 +1,2 @@
-# spyctensor
-Seamless Python-C++ Tensors
+# spycitensor
+Seamless Python-C++ Interface for Tensors
